@@ -52,9 +52,5 @@ npm run dev
 ```
 The application will run on `http://localhost:5173` (or similar).
 
-## Documentation
-- [API Documentation](./api_docs.md)
-- [Scaling Strategy](./scaling_strategy.md)
 
-## License
-MIT
+

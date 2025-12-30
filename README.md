@@ -1,6 +1,8 @@
  PrimeTrade
 
 A full-stack task management dashboard application built with React, Node.js, Express, and MongoDB.
+<img width="1739" height="878" alt="image" src="https://github.com/user-attachments/assets/bd0538f6-bd66-43fa-a634-528a29093555" />
+
 
 ## Features
 - **Authentication**: Secure Login and Registration using JWT.

@@ -1,4 +1,4 @@
- #PrimeTrade
+ # PrimeTrade
 
 A full-stack task management dashboard application built with React, Node.js, Express, and MongoDB.
 <img width="1707" height="912" alt="image" src="https://github.com/user-attachments/assets/1535e4c5-f791-40a6-902b-637882131250" />
